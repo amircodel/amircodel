@@ -2,7 +2,7 @@
 - 👀 I’m interested in PCs
 - 🌱 I’m currently learning Python , JS
 - 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me ...
+- 📫 How to reach me ... you can't now
 
 <!---
 amircodel/amircodel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
