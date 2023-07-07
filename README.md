@@ -19,6 +19,6 @@ Here are some of the projects you'll find in this repository:
 I believe in the power of collaboration and open-source development. I actively contribute to various projects and participate in coding competitions to further enhance my skills and learn from experts.
 
 ## Contact Information
-Feel free to reach out to me via email at [amirali.mohammadi884@yahoo.com]. I am always interested in exciting collaboration opportunities and discussions related to my areas of interest.
+Feel free to reach out to me via email at amirali.mohammadi884@yahoo.com. I am always interested in exciting collaboration opportunities and discussions related to my areas of interest.
 
 Thank you for visiting my GitHub profile! I look forward to connecting with fellow developers and enthusiasts in the field.
