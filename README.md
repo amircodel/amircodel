@@ -19,3 +19,7 @@ I believe in the power of collaboration and open-source development. I actively 
 Feel free to reach out to me via email at amirali.mohammadi884@yahoo.com. I am always interested in exciting collaboration opportunities and discussions related to my areas of interest.
 
 Thank you for visiting my GitHub profile! I look forward to connecting with fellow developers and enthusiasts in the field.
+
+## Organization and symbols
+
+<img src="Madani_logo.png" alt="Madani_logo" width="100">
