@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Amirali Mohammadi, a dedicated computer scienc
 ## Projects
 Here are some of the projects you'll find in this repository:
 - [Python_Beginner](https://github.com/amircodel/Python_Beginner): Learning Python at the beginner level.
-- [Python_Advanced](https://github.com/amircodel/Python_Advanced): Learning Python at the advanced level.- 
+- [Python_Advanced](https://github.com/amircodel/Python_Advanced): Learning Python at the advanced level.
 ## Contributions
 I believe in the power of collaboration and open-source development. I actively contribute to various projects and participate in coding competitions to further enhance my skills and learn from experts.
 
@@ -22,4 +22,5 @@ Thank you for visiting my GitHub profile! I look forward to connecting with fell
 
 ## Organization and symbols
 
-<img src="Madani_logo.png" alt="Madani_logo" width="100">
+<img src="Madani_logo.png" alt="Madani" width="100">
+<img src="Python-logo.png" alt="Python" width="100">
