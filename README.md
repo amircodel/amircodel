@@ -23,5 +23,4 @@ Thank you for visiting my GitHub profile! I look forward to connecting with fell
 ## Organization and symbols
 
 <img src="Madani_logo.png" alt="Madani" width="100">
-
 <img src="Python-logo.png" alt="Python" width="100">
