@@ -4,7 +4,9 @@
 Welcome to my GitHub profile! I'm Amirali Mohammadi, a dedicated computer science student at Madani University in Tabriz, Iran. I am passionate about Python programming, artificial intelligence (AI), blockchain, and the Internet of Things (IoT). This repository serves as a showcase of my projects, contributions, and explorations in these exciting fields.
 <br>
 <br>
-<img src="Madani_logo.png" alt="Madani" width="100" style="margin: 1000px;">
+<div style="padding: 100px">
+  <img src="Madani_logo.png" alt="Madani" width="100">
+</div>
 <img src="Python-logo.png" alt="Python" width="100">
 
 ## Areas of Interest
