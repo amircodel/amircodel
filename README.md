@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Amirali Mohammadi, a dedicated computer scienc
 <br>
 <br>
 <img src="Madani_logo.png" alt="Madani" width="100">
-<img src="Python-logo.png" alt="Python" width="100", padding="100">
+<img src="Python-logo.png" alt="Python" width="100", style="padding= 50">
 
 ## Areas of Interest
 - Python Programming: I have a strong command over Python and utilize it for a wide range of applications, from automation to data analysis.
