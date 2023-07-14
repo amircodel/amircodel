@@ -4,7 +4,6 @@
 <br>
 <h1 align="center">Hi 👋, I'm Amircodel</h1>
 <br>
-<br>
 <h3 align="center">A computer science(CS) studen</h3>
 <h4 align="center"><em>Passionate about Python, AI, blockchain, and IoT</em></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amircodel&label=Profile%20views&color=0e75b6&style=flat" alt="amircodel" /> </p>
