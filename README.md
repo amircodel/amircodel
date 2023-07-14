@@ -9,7 +9,7 @@
 <h1 align="center">🏆 Trophies and achievements</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amircodel" alt="amircodel" /></a> </p>
 
-<h1 align="center">📁 Project and archives</h1>
+# ⚡ Project and archives
 - 🔭 I’m currently working on [University deal reserve](https://github.com/amircodel/University_deal_reserve)
 
 - 🌱 I’m currently learning [Django](https://github.com/amircodel/Django)
