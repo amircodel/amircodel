@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/amircodel/AmirCodel/blob/main/_1e04afac-32ee-44bb-8722-5876ce29a726.jpeg.jpg =250x250)
+![MasterHead](https://github.com/amircodel/AmirCodel/blob/main/_1e04afac-32ee-44bb-8722-5876ce29a726.jpeg.jpg)
 <br>
 
 <h1 align="center">Hi 👋, I'm Amircodel</h1>
