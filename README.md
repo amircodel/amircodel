@@ -1,4 +1,4 @@
-[![MasterHead]([GIF/IMAGE])]
+[![MasterHead]([_01c335c5-8367-4efb-b159-a1699086bded.jpeg.jpg])]
 <h1 align="center">Hi 👋, I'm Amircodel</h1>
 <h3 align="center">a computer science (CS) student, passionate about Python, AI, blockchain, and IoT.</h3>
 
