@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amircodel&" alt="amircodel"/></p>
 <p><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_01c335c5-8367-4efb-b159-a1699086bded.jpeg.jpg" alt="amircodel" width="auto" height="200"/></p>
-<p><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_01c335c5-8367-4efb-b159-a1699086bded.jpeg.jpg" alt="amircodel" width="auto" height="200"/></p>
+<p><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_75756577-9bd4-4321-a1a5-dab380e32716.jpeg.jpg" alt="amircodel" width="auto" height="200"/></p>
