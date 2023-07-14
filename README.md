@@ -1,25 +1,37 @@
-# Amirali Mohammadi
+[![MasterHead]([GIF/IMAGE])]
+<h1 align="center">Hi 👋, I'm Amircodel</h1>
+<h3 align="center">a computer science (CS) student, passionate about Python, AI, blockchain, and IoT.</h3>
 
-## Introduction
-Welcome to my GitHub profile! I'm Amirali Mohammadi, a dedicated computer science student at Madani University in Tabriz, Iran. I am passionate about Python programming, artificial intelligence (AI), blockchain, and the Internet of Things (IoT). This repository serves as a showcase of my projects, contributions, and explorations in these exciting fields.
-## Areas of Interest
-- Python Programming: I have a strong command over Python and utilize it for a wide range of applications, from automation to data analysis.
-- Artificial Intelligence (AI): I am fascinated by the potential of AI to replicate human intelligence. I am particularly interested in machine learning algorithms, natural language processing, and computer vision.
-- Blockchain: The decentralized nature of blockchain technology and its potential applications in security and trust fascinate me. I am eager to explore blockchain frameworks, smart contracts, and decentralized applications (DApps).
-- Internet of Things (IoT): Connecting everyday objects to the internet and creating intelligent, interconnected systems is an area that excites me. I actively explore IoT frameworks and develop innovative solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amircodel&label=Profile%20views&color=0e75b6&style=flat" alt="amircodel" /> </p>
 
-## Projects
-Here are some of the projects you'll find in this repository:
-- [Python_Beginner](https://github.com/amircodel/Python_Beginner): Learning Python at the beginner level.
-- [Python_Advanced](https://github.com/amircodel/Python_Advanced): Learning Python at the advanced level.
-## Contributions
-I believe in the power of collaboration and open-source development. I actively contribute to various projects and participate in coding competitions to further enhance my skills and learn from experts.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amircodel" alt="amircodel" /></a> </p>
 
-## Contact Information
-Feel free to reach out to me via email at amirali.mohammadi884@yahoo.com. I am always interested in exciting collaboration opportunities and discussions related to my areas of interest.
+- 🔭 I’m currently working on [University_deal_reserve](https://github.com/amircodel/University_deal_reserve)
 
-Thank you for visiting my GitHub profile! I look forward to connecting with fellow developers and enthusiasts in the field.
+- 🌱 I’m currently learning [Django](https://github.com/amircodel/Django)
 
-## Organization and symbols
+- 🌱 I’m currently learning [Front-End](https://github.com/amircodel/Front-End)
 
-<img src="Madani_logo.png" alt="Madani" width="100"><img src="Python-logo.png" alt="Python" width="100">
+- 💬 Ask me about **python, wordpress**
+
+- 📫 How to reach me **amircodel@​yahoo.com**
+
+- ⚡ Fun fact **The world will reach its highest level of excitement when AI, blockchain and advanced robots reach the peak too.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amircodel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amircodel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22224550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22224550" height="30" width="40" /></a>
+<a href="https://instagram.com/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amircodel" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/RW997jfQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RW997jfQ" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amircodel&show_icons=true&locale=en&layout=compact" alt="amircodel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amircodel&show_icons=true&locale=en" alt="amircodel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amircodel&" alt="amircodel" /></p>
