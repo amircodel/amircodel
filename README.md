@@ -40,5 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amircodel&show_icons=true&locale=en" alt="amircodel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amircodel&" alt="amircodel" style="display: inline;" /></p>
-<p><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_01c335c5-8367-4efb-b159-a1699086bded.jpeg.jpg" alt="amircodel" width="200" height="200" style="display: inline;"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amircodel&" alt="amircodel"/></p>
+<p><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_01c335c5-8367-4efb-b159-a1699086bded.jpeg.jpg" alt="amircodel" width="auto" height="200"/></p>
