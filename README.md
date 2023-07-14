@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/amircodel/AmirCodel/blob/main/_1e04afac-32ee-44bb-8722-5876ce29a726.jpeg.jpg)
 <h1 align="center">Hi 👋, I'm Amircodel</h1>
 <h3 align="center">A computer science(CS) studen</h3>
-</hr>
+</br>
 <em align="center">Passionate about Python, AI, blockchain, and IoT</em>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amircodel&label=Profile%20views&color=0e75b6&style=flat" alt="amircodel" /> </p>
 
