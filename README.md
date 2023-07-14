@@ -36,9 +36,9 @@
 
 # 🗠 Statistics and info
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amircodel&show_icons=true&locale=en&layout=compact" alt="amircodel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amircodel&show_icons=true&locale=en&layout=compact" alt="amircodel" width= "55%"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amircodel&show_icons=true&locale=en" alt="amircodel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amircodel&show_icons=true&locale=en" alt="amircodel" width= "55%"/></p>
 
 <p id="img"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amircodel&" alt="amircodel" width= "55%"/>&nbsp;&nbsp;&nbsp;<a href="#img"><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_01c335c5-8367-4efb-b159-a1699086bded.jpeg.jpg" alt="amircodel" width= "20%" height="auto" /></a>&nbsp;&nbsp;&nbsp;<a href="#img"><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_75756577-9bd4-4321-a1a5-dab380e32716.jpeg.jpg" alt="amircodel" width= "20%" height="auto" /></a></p>
 
