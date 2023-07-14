@@ -43,3 +43,5 @@
 <p id="img"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amircodel&" alt="amircodel" />&nbsp;&nbsp;&nbsp;<a href="#img"><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_01c335c5-8367-4efb-b159-a1699086bded.jpeg.jpg" alt="amircodel" width="auto" height="200" /></a>&nbsp;&nbsp;&nbsp;<a href="#img"><img align="center" src="https://github.com/amircodel/AmirCodel/blob/main/_75756577-9bd4-4321-a1a5-dab380e32716.jpeg.jpg" alt="amircodel" width="auto" height="200" /></a></p>
 
 # ©️ Activity centers and organizations
+
+<img align="left" src="https://github.com/amircodel/AmirCodel/blob/main/Madani_logo.png" width="200" height="200">
