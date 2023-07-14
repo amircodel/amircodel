@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently learning [Front-End](https://github.com/amircodel/Front-End)
 
-- 💬 Ask me about **python, wordpress**
+- 💬 Ask me about **[Python](https://github.com/amircodel/Python_Advanced) and CS**
 
-- 📫 How to reach me **amircodel@​yahoo.com**
+- 📫 How to reach me **amircodel@​yahoo.com[mailto:amircodel@​yahoo.com]**
 
-- ⚡ Fun fact **The world will reach its highest level of excitement when AI, blockchain and advanced robots reach the peak too.**
+- 😛 Fun fact **<code>The world will reach its highest level of excitement when AI, blockchain and advanced robots reach the peak too</code>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
