@@ -44,4 +44,4 @@
 
 # ©️ Activity centers and organizations
 
-<img align="left" src="https://github.com/amircodel/AmirCodel/blob/main/Madani_logo.png" width="200" height="200">
+<img align="left" src="https://github.com/amircodel/AmirCodel/blob/main/Madani_logo.png" width="50" height="50">
