@@ -1,4 +1,5 @@
 ![MasterHead](https://github.com/amircodel/AmirCodel/blob/main/_1e04afac-32ee-44bb-8722-5876ce29a726.jpeg.jpg)
+</br>
 <div>
   <h1 align="center">Hi 👋, I'm Amircodel</h1>
   <h3 align="center">A computer science(CS) studen</h3>
