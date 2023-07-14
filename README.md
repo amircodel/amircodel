@@ -5,9 +5,10 @@
 <h1 align="center">Hi 👋, I'm Amircodel</h1>
 <h3 align="center">A computer science(CS) student <h4 align="center"><em>Passionate about Python, AI, blockchain, and IoT</em></h4></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amircodel&label=Profile%20views&color=0e75b6&style=flat" alt="amircodel" /> </p>
+<h1 align="center">🏆 Trophies and achievements</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amircodel" alt="amircodel" /></a> </p>
 
-- 🔭 I’m currently working on [University_deal_reserve](https://github.com/amircodel/University_deal_reserve)
+- 🔭 I’m currently working on [University deal reserve](https://github.com/amircodel/University_deal_reserve)
 
 - 🌱 I’m currently learning [Django](https://github.com/amircodel/Django)
 
