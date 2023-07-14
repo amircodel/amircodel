@@ -2,10 +2,8 @@
 <br>
 <br>
 <br>
-
 <br>
 <br>
-
 <div>
   <h1 align="center">Hi 👋, I'm Amircodel</h1>
   <h3 align="center">A computer science(CS) studen</h3>
