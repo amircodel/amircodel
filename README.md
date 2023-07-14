@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **[amircodel@​yahoo.com](mailto:amircodel@​yahoo.com)**
 
-- 😛 Fun fact **<code>The world will reach the peak of excitement when AI, blockchain and advanced robots reach the peak too</code>**
+- 😛 Cool fact **<code>The world will reach the peak of excitement when AI, blockchain and advanced robots reach the peak too</code>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
