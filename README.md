@@ -44,4 +44,4 @@
 
 # ©️ Organizations and universities
 
-<a href="http://en.azaruniv.ac.ir/"><img align="left" src="https://github.com/amircodel/AmirCodel/blob/main/Madani_logo.png" width="%40" height="auto"></a>
+<a href="http://en.azaruniv.ac.ir/"><img align="left" src="https://github.com/amircodel/AmirCodel/blob/main/Madani_logo.png" width="40%" height="auto"></a>
