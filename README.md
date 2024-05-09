@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm amircodel</h1>
-<h3 align="center">A computer science (CS) student <h4 align="center"><em>focused on programming, AI, blockchains, and IoT</em></h4></h3>
+<h3 align="center">A computer science (CS) student <h4 align="center"><em>focused on Coding, ML, blockchains, and IoT</em></h4></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amircodel&label=Profile%20views&color=0e75b6&style=flat" alt="amircodel" /> </p>
 
@@ -9,9 +9,9 @@
 # ⚡ Project and archives
 - 🔭 I’m currently working on [University_dining_reserver](https://github.com/amircodel/University_dining_reserver)
 
-- 🌱 I’m currently learning [Django]
+- 🌱 I’m currently learning [Django](https://www.djangoproject.com/)
 
-- 🌱 I’m currently learning [C++]
+- 🌱 I’m currently learning [js](https://www.javascript.com/)
 
 - 💬 Ask me about **[Python](https://github.com/amircodel/Python_Advanced) and CS**
 
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amircodel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amircodel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22224550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22224550" height="30" width="40" /></a>
-<a href="https://instagram.com/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amircodel" height="30" width="40" /></a>
+<a href="https://instagram.com/ageekforever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amircodel" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/RW997jfQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RW997jfQ" height="30" width="40" /></a>
 </p>
 
