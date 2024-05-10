@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amircodel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22224550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22224550" height="30" width="40" /></a>
 <a href="https://instagram.com/ageekforever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amircodel" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/RW997jfQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RW997jfQ" height="30" width="40" /></a>
+<a href="https://discord.com/users/780020956344221697/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RW997jfQ" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages and Tools
