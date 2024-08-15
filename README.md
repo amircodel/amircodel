@@ -1,10 +1,10 @@
 <h1 align="center">𝙷𝚒, 𝚒𝚝'𝚜 𝙼𝚘𝚌𝚘𝚍𝚎𝚛</h1>
 <h3 align="center">𝚊 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚕𝚎𝚊𝚛𝚗𝚎𝚛<h4 align="center"><em>𝚎𝚗𝚐𝚊𝚐𝚎𝚍 𝚒𝚗 𝚌𝚘𝚍𝚒𝚗𝚐, 𝚖𝚊𝚌𝚑𝚒𝚗 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚋𝚕𝚘𝚌𝚔𝚌𝚑𝚊𝚒𝚗 𝚊𝚗𝚍 𝚒𝚗𝚝𝚎𝚛𝚗𝚝 𝚘𝚏 𝚝𝚑𝚒𝚗𝚐𝚜</em></h4></h3>
 
-<h1 align="center">𝚊𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amircodel" alt="amircodel" /></a> </p>
+<h1 align="center">𝚋𝚒𝚘𝚐𝚛𝚊𝚙𝚑𝚢</h1>
+<p align="center">𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙰𝚖𝚒𝚛𝚊𝚕𝚒 𝙼𝚘𝚑𝚊𝚖𝚖𝚊𝚍𝚒, 𝚋𝚘𝚛𝚗 𝚒𝚗 𝟸𝟶𝟶𝟹 𝚒𝚗 𝚃𝚊𝚋𝚛𝚒𝚣, 𝙸𝚛𝚊𝚗. 𝚂𝚒𝚗𝚌𝚎 𝚌𝚑𝚒𝚕𝚍𝚑𝚘𝚘𝚍, 𝙸 𝚑𝚊𝚟𝚎 𝚋𝚎𝚎𝚗 𝚏𝚊𝚜𝚌𝚒𝚗𝚊𝚝𝚎𝚍 𝚋𝚢 𝚝𝚑𝚎 𝚞𝚗𝚔𝚗𝚘𝚠𝚗 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚠𝚘𝚛𝚕𝚍 𝚊𝚗𝚍 𝚊𝚕𝚠𝚊𝚢𝚜 𝚜𝚘𝚞𝚐𝚑𝚝 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚒𝚝. 𝙰𝚜 𝚊 𝚝𝚎𝚎𝚗𝚊𝚐𝚎𝚛, 𝙸 𝚠𝚊𝚜 𝚒𝚗𝚟𝚘𝚕𝚟𝚎𝚍 𝚒𝚗 𝚠𝚎𝚋 𝚄𝚇 𝚊𝚗𝚍 𝚄𝙸 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚊𝚗𝚍 𝚗𝚘𝚠 𝙸 𝚊𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚎𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚊𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎. 𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢, 𝙸 𝚠𝚘𝚛𝚔 𝚘𝚗 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜 𝚞𝚜𝚒𝚗𝚐 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝚒𝚝𝚜 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜.</p>
 
-# ⚡ Project and archives
+#  𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝚊𝚗𝚍 𝚊𝚛𝚌𝚑𝚒𝚟𝚎𝚜
 - 🔭 I’m currently working on [University_dining_reserver](https://github.com/amircodel/University_dining_reserver)
 
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/)
