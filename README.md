@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm amircodel</h1>
-<h3 align="center">A computer science (CS) student <h4 align="center"><em>focused on Coding, ML, blockchains, and IoT</em></h4></h3>
+<h1 align="center">𝙷𝚒, 𝚒𝚝'𝚜 𝙼𝚘𝚌𝚘𝚍𝚎𝚛</h1>
+<h3 align="center">a computer science (CS) student <h4 align="center"><em>focused on Coding, ML, blockchains, and IoT</em></h4></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amircodel&label=Profile%20views&color=0e75b6&style=flat" alt="amircodel" /> </p>
 
