@@ -13,7 +13,7 @@
 
 - 𝚊𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 <b>𝚠𝚎𝚋, 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝚒𝚝𝚜 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜]</b>
 
-- text 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 <b>[𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖](http://t.me/amirmocoder)</b>
+- 𝚝𝚎𝚡𝚝 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 <b>[𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖](http://t.me/amirmocoder)</b>
 # 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎
 <p align="left">
 <a href="https://twitter.com/amirmocoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amircodel" height="30" width="40" /></a>
