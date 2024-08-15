@@ -11,12 +11,9 @@
 
 - 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 [𝚓𝚜](https://www.javascript.com/)
 
-- 𝚊𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **[𝚠𝚎𝚋, 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝚒𝚝𝚜 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜]**
+- 𝚊𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝚠𝚎𝚋, 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝚒𝚝𝚜 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜**
 
-- 📫 How to reach me **[amircodel@​yahoo.com](mailto:amircodel@​yahoo.com)**
-
-- 😛 Do you agree with me that **<code>The world will reach the peak of excitement when AI, blockchain and advanced robots reach the peak too :) </code>**
-
+- how to reach me **[t.me/amirmocoder](http://t.me/amirmocoder)**
 # 🔗 Connect with me
 <p align="left">
 <a href="https://twitter.com/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amircodel" height="30" width="40" /></a>
