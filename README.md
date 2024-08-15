@@ -36,4 +36,4 @@
 
 # ©️ Organizations and universities
 
-<a href="http://en.azaruniv.ac.ir/"><img align="left" src="https://github.com/amircodel/AmirCodel/blob/master/Madani_logo.png" width ="12.5%" height="auto">**fuckin hell**</a>
+<a href="http://en.azaruniv.ac.ir/"><img align="left" src="https://github.com/amircodel/AmirCodel/blob/master/Madani_logo.png" width ="12.5%" height="auto"></a>
