@@ -13,13 +13,13 @@
 
 - 𝚊𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝚠𝚎𝚋, 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝚒𝚝𝚜 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜**
 
-- how to reach me **[t.me/amirmocoder](http://t.me/amirmocoder)**
-# 🔗 Connect with me
+- 𝚑𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **[t.me/amirmocoder](http://t.me/amirmocoder)**
+# 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎
 <p align="left">
-<a href="https://twitter.com/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amircodel" height="30" width="40" /></a>
+<a href="https://x.com/amirmocoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="amircodel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amircodel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amircodel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22224550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22224550" height="30" width="40" /></a>
-<a href="https://instagram.com/ageekforever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amircodel" height="30" width="40" /></a>
+<a href="https://instagram.com/amirmocoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amircodel" height="30" width="40" /></a>
 <a href="https://discord.com/users/780020956344221697/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RW997jfQ" height="30" width="40" /></a>
 </p>
 
