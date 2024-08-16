@@ -31,6 +31,6 @@
 
 # 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amircodel&show_icons=true&locale=en&layout=compact" alt="amircodel" width= "40%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmocoder&show_icons=true&locale=en&layout=compact" alt="amircodel" width= "40%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amircodel&show_icons=true&locale=en" alt="amircodel" width= "50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirmocoder&show_icons=true&locale=en" alt="amircodel" width= "50%" /></p>
